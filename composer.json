@@ -32,5 +32,6 @@
             "Test\\Prometheus\\": "tests/"
         }
     },
-    "license": "Apache-2.0"
+    "license": "Apache-2.0",
+    "abandoned": "endclothing/prometheus_client_php"
 }
